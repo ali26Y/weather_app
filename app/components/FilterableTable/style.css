@@ -1,0 +1,15 @@
+.error {
+  color: #ed2626;
+}
+
+.errorIcon {
+  padding-top:5px;
+  font-size: 1rem;
+  padding-right:2px;
+  transition:opacity 2s;
+  opacity: 1;
+}
+
+.loading {
+  max-width:150px;
+}
